@@ -1,0 +1,35 @@
+body{
+	background-color: rgb(55, 158, 184);
+}
+
+.heading{
+	text-align: center;
+}
+
+#movies{
+	display: flex;
+	justify-content: space-between;
+	padding-right: 10px;
+	font-family: Helvetica;
+}
+
+#date{
+	display: flex;
+	justify-content: space-between;
+}
+
+#filmBy{
+	display: flex;
+	justify-content: space-between;
+}
+
+#descriptions{
+	display: flex;
+}
+
+span{
+	padding: 5px 5px 5px 10px;
+	border-style: solid;
+	background-color: white;
+	font-family: Helvetica,;
+}
